@@ -6,6 +6,6 @@ img: two_trees_together_forever.jpg
 alt: image-alt
 project-date: December 31 2022
 medium: Watercolor
-category: Web Development
+category: nature
 description: My first try at drawing pictures using watercolor 
 ---
