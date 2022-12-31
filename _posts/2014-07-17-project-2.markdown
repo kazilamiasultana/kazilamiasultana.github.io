@@ -6,6 +6,6 @@ img: alone.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
+medium: Watercolor
 description: A tree alone in the wild, waiting for somebody
 ---
