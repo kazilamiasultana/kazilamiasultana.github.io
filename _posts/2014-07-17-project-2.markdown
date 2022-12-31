@@ -5,7 +5,7 @@ date: 2014-07-17
 img: alone.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+paper: regular A4
 medium: Watercolor
 description: A tree alone in the wild, waiting for somebody
 ---
