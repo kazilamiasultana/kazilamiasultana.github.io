@@ -5,7 +5,7 @@ date: 2014-07-18
 img: two_trees_together_forever.jpg
 alt: image-alt
 project-date: December 31 2022
-client: Start Bootstrap
+medium: Watercolor
 category: Web Development
 description: My first try at drawing pictures using watercolor 
 ---
