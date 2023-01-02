@@ -77,14 +77,6 @@ hr.star-primary:after {
     background-color: #fff;
 }
 */
-hr.star-primary {
-    border-color: rgba(111,111,111,0);
-}
-
-hr.star-primary:after {
-    color: #{{ site.color.secondary }};
-    background: url(http://kazilamiasultana.github.io/img/background.jpg);
-}
 
 hr.star-primary {
     border-color: #{{ site.color.secondary }};
