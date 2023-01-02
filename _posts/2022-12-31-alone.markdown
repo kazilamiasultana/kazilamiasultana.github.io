@@ -6,6 +6,6 @@ img: alone.jpg
 alt: image-alt
 project-date: 31/12/2022
 medium: Watercolor
-category: nature
+category: Nature
 description: A tree alone in the wild, waiting for somebody
 ---
