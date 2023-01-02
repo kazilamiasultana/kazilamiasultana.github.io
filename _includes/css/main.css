@@ -58,7 +58,7 @@ hr.star-primary:after {
     font-family: FontAwesome;
     font-size: 2em;
 }
-
+/*
 hr.star-light {
     border-color: #fff;
 }
@@ -67,16 +67,16 @@ hr.star-light:after {
     color: #fff;
     background-color: #{{ site.color.primary }};
 }
-
-hr.star-primary {
+*/
+/* hr.star-primary {
     border-color: #{{ site.color.secondary }};
-}
-
+} */
+/*
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
     background-color: #fff;
 }
-
+*/
 .img-centered {
     margin: 0 auto;
 }
