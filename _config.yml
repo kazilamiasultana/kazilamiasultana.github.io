@@ -56,7 +56,7 @@ address:
   - line: Bangladesh
 
 # Credits content
-credits: 'Copyright©2023 Kazi Lamia Sultana. All rights reserved.'
+credits: 'Copyright © Kazi Lamia Sultana 2023'
 
 # Build settings
 markdown: kramdown
