@@ -483,3 +483,7 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+body {
+    background: url(http://kazilamiasultana.github.io/img/background.jpg);
+}
