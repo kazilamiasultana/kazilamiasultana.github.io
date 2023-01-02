@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-01-02
-img: 2023-01-02-two-trees-together-forever.markdown
+img: spring_is_in_the_air.jpg
 alt: image-al
 project-date: 01/02/2023
 medium: Watercolor
